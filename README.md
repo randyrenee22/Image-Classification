@@ -1,7 +1,6 @@
 # Image-Classification
-Image Classification problem that was assigned during my time in Graduate School.
+Image Classification problem that was assigned in my Big Data and Machine Learning course while I was enrolled in Swansea University, pursuing my MSc in Computer Science.
 
-This assignment was given to me during my Big Data and Machine Learning course during my time in graduate school.
 We were tasked with using different machine learning methodologies to provide the best accuracy percentage in terms of this specific image classification.
 
 I attempted different approaches such as SVM and ANN.
